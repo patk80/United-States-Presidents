@@ -1,1 +1,10 @@
+$font-family-sans-serif: "Abel", sans-serif;
+
+#header-container {
+    background: url("../assets/usa-flag-header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap";
